@@ -1,11 +1,14 @@
 # 👋 Hi, I’m Milagros Irusta 
 
 ## Professional Overview
+
 👩‍💼 Bachelor's degree in Accounting
 
-👩‍💻 Data Analyst with business knowledge 
+👩‍💻 Sr. Data Analyst (5 years of experience)
 
-👨‍🔬 Data Scientist Apprentice.
+👨‍🔬 Data Scientist Student
+
+💎 Data Engineer Enthusiast
 
 🎓 Currently pursuing a Master's in Data Science at the University of Buenos Aires.
           
