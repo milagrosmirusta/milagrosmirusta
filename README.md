@@ -18,7 +18,7 @@
 My name is **Milagros**, and I love everything that has something to do with **data**.  
 I started my professional career as an **Accountant**, but crunching numbers fueled my curiosity far more when they came from **real-world datasets** than from ledgers alone so I became a **Data Analyst**.  
 
-Now I'm expanding my technical skills to grow into a **Data Engineer / Analytics Engineer** role, because solving tricky code problems turned out to be something I truly enjoy and keeping data clean and perfectly normalized and organized might just be my Virgo moon talking 🌙😌
+Now I'm expanding my technical skills to grow into a **Data Engineer / Analytics Engineer** role, because solving tricky code problems turned out to be something I truly enjoy and keeping data clean, perfectly normalized and organized might just be my Virgo moon talking 🌙😌
 
 ---
 
