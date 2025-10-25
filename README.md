@@ -1,7 +1,8 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="Github.gif" width="400" alt="anime girl tired at computer">
+  <img src="https://raw.githubusercontent.com/milagrosmirusta/milagrosmirusta/main/Github.gif" width="400" alt="anime girl tired at computer">
 </p>
+
 
 <h1 align="center">Hey there 👋</h1>
 
